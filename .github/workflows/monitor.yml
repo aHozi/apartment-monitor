@@ -1,0 +1,68 @@
+name: Apartment monitor
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # every 10 minutes (GitHub may delay runs a few minutes)
+  workflow_dispatch:          # "Run workflow" button for manual tests
+    inputs:
+      debug:
+        description: "Debug: only show what the parser finds (sends nothing) and save the page HTML"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write             # needed to commit state.json
+
+concurrency:
+  group: apartment-monitor
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      # Only needed if the listings are loaded by JavaScript (then also set USE_BROWSER: "1" below)
+      # - run: pip install playwright==1.47.0 && python -m playwright install --with-deps chromium
+
+      - name: Debug - show parsed listings and save page HTML
+        if: ${{ inputs.debug }}
+        env:
+          CARD_SELECTOR: ${{ vars.CARD_SELECTOR }}
+        run: |
+          curl -sSL -A "Mozilla/5.0 (X11; Linux x86_64) Chrome/126.0" -H "Accept-Language: en,de;q=0.8" \
+            -o page.html https://www.apartments-hn.de/en/book-apartment
+          python monitor.py --dump --file page.html
+
+      - name: Debug - upload page HTML
+        if: ${{ inputs.debug }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: page-html
+          path: page.html
+
+      - name: Check apartments
+        if: ${{ !inputs.debug }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          CARD_SELECTOR: ${{ vars.CARD_SELECTOR }}
+          USE_BROWSER: "0"
+        run: python monitor.py
+
+      - name: Save state
+        if: ${{ !inputs.debug }}
+        run: |
+          git config user.name "apartment-bot"
+          git config user.email "apartment-bot@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || (git commit -m "Update apartment state" && git push)
