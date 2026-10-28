@@ -1,0 +1,2036 @@
+{
+  "apartments": {
+    "3175": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/b350b0c222284a43af0ca9891af564f8/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.23",
+      "status": "taken",
+      "title": "0/ 001",
+      "type": "Single, balcony"
+    },
+    "3176": {
+      "date": "2028-01-01",
+      "link": "https://scs.onboarding.reos.software/contract/2fbff126ee734e1f9902600becc3b60b/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.23",
+      "status": "taken",
+      "title": "0/ 002",
+      "type": "Single, balcony"
+    },
+    "3177": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/51ae833783114e73a36cb8d396d9140a/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.23",
+      "status": "taken",
+      "title": "0/ 003",
+      "type": "Single, balcony"
+    },
+    "3178": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/d3311c87033e44b6b14fe6d2795db89e/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.23",
+      "status": "taken",
+      "title": "0/ 004",
+      "type": "Single, balcony"
+    },
+    "3179": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/3c5779dbf73d4248a24c0bae9cded255/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.20",
+      "status": "taken",
+      "title": "0/ 005",
+      "type": "Single, balcony"
+    },
+    "3180": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/501bfd2a5509470caea81459cb3c35dc/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.23",
+      "status": "taken",
+      "title": "0/ 006",
+      "type": "Single, balcony"
+    },
+    "3181": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/fa8290d3259d48c7afecd97e01cd1a47/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.23",
+      "status": "taken",
+      "title": "0/ 007",
+      "type": "Single, balcony"
+    },
+    "3182": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/4675644d9c8d4a80a99077ccbe9bc3bc/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.29",
+      "status": "taken",
+      "title": "0/ 008",
+      "type": "Single, balcony"
+    },
+    "3183": {
+      "date": "2028-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/f4de0eac32104faf84f6ad79c0ba5d11/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.20",
+      "status": "taken",
+      "title": "0/ 009",
+      "type": "Single, balcony"
+    },
+    "3184": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/d7b6628ccf7643b8864b54467b63d9fa/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.23",
+      "status": "taken",
+      "title": "0/ 010",
+      "type": "Single, balcony"
+    },
+    "3185": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/1cd0bd2580794d4887796c071d25ab18/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "26.90",
+      "status": "taken",
+      "title": "0/ 012",
+      "type": "Single, balcony"
+    },
+    "3186": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/427c8efd2ebf4b0fa91b6828cbfe6a9c/register",
+      "location": "Inner courtyard",
+      "rent": "505.50",
+      "size": "25.85",
+      "status": "taken",
+      "title": "0/ 013",
+      "type": "Single, balcony"
+    },
+    "3187": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/8e11f0b2b14b4ded97f7fff1fe24f97a/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.07",
+      "status": "taken",
+      "title": "0/ 040",
+      "type": "Single, balcony"
+    },
+    "3188": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/aeeb0f09d5ce41aabe8b3ee7c420f85e/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.00",
+      "status": "taken",
+      "title": "0/ 043",
+      "type": "Single, balcony"
+    },
+    "3189": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/8b2d70533556449d9d217cfdd4b57ad5/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.24",
+      "status": "taken",
+      "title": "0/ 011",
+      "type": "Single, balcony"
+    },
+    "3190": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/69b06f37cc464ad889b8bbe4d2213e4b/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.07",
+      "status": "taken",
+      "title": "0/ 044",
+      "type": "Single, balcony"
+    },
+    "3191": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/ffdc7af6ae40430da452e7a49bb5e982/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.22",
+      "status": "taken",
+      "title": "0/ 045",
+      "type": "Single, balcony"
+    },
+    "3192": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/8025f1f034764e378aa6774dd1c4b265/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "24.91",
+      "status": "taken",
+      "title": "0/ 046",
+      "type": "Single, balcony"
+    },
+    "3193": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/15171170ed5e4df68cc0276c64604cc6/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.06",
+      "status": "taken",
+      "title": "0/ 047",
+      "type": "Single, balcony"
+    },
+    "3195": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/0d98a9e8d4524cb08bb5983489111025/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.21",
+      "status": "taken",
+      "title": "0/ 049",
+      "type": "Single, balcony"
+    },
+    "3197": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/95437acc0ffc405bbc78592dfaeec9ab/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.39",
+      "status": "taken",
+      "title": "1/ 101",
+      "type": "Single, balcony"
+    },
+    "3198": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/0647031012d14eeba5aeeea86368ebb8/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.2",
+      "status": "taken",
+      "title": "1/ 102",
+      "type": "Single, balcony"
+    },
+    "3199": {
+      "date": "2029-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/c931422045834ccdb646bc24b6a6d27a/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.2",
+      "status": "taken",
+      "title": "1/ 103",
+      "type": "Single, balcony"
+    },
+    "3200": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/b263cf956cfc413981853e41915a4aff/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.20",
+      "status": "taken",
+      "title": "1/ 104",
+      "type": "Single, balcony"
+    },
+    "3201": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/d52b910fd7de46349ad8ed2e63353702/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.20",
+      "status": "taken",
+      "title": "1/ 105",
+      "type": "Single, balcony"
+    },
+    "3202": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/9d4e61793c9d4514859884941421fad5/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.19",
+      "status": "taken",
+      "title": "1/ 106",
+      "type": "Single, balcony"
+    },
+    "3203": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/7bfce139a45345978126bc6ca75e0cb9/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.20",
+      "status": "taken",
+      "title": "1/ 107",
+      "type": "Single, balcony"
+    },
+    "3204": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/c8d81c3ae78d4599bd59eba05b5676d2/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.20",
+      "status": "taken",
+      "title": "1/ 108",
+      "type": "Single, balcony"
+    },
+    "3205": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/62f30336dc7a40b8b0c7de9cf2322d5d/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.2",
+      "status": "taken",
+      "title": "1/ 109",
+      "type": "Single, balcony"
+    },
+    "3206": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/e7d22c7ae22946e08313516c3f1352c4/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.21",
+      "status": "taken",
+      "title": "1/ 110",
+      "type": "Single, balcony"
+    },
+    "3207": {
+      "date": "2029-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/dc3efff96bf04f1ba485b9d2958155ec/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.21",
+      "status": "taken",
+      "title": "1/ 111",
+      "type": "Single, balcony"
+    },
+    "3208": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/5f55341486d54bf8920fe94d5692cff7/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "26.85",
+      "status": "taken",
+      "title": "1/ 112",
+      "type": "Single, balcony"
+    },
+    "3209": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/fe04faace61e438d94e69654cfa930f6/register",
+      "location": "Inner courtyard",
+      "rent": "505.50",
+      "size": "25.82",
+      "status": "taken",
+      "title": "1/ 113",
+      "type": "Single, balcony"
+    },
+    "3210": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/23505cb4e82c4d9081e14f7c99dc43f4/register",
+      "location": "Inner courtyard",
+      "rent": "505.50",
+      "size": "25.91",
+      "status": "taken",
+      "title": "1/ 114",
+      "type": "Single, balcony"
+    },
+    "3211": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/8dc4192761d547889205c0907b8ef34c/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.66",
+      "status": "taken",
+      "title": "1/ 115",
+      "type": "Single, balcony"
+    },
+    "3212": {
+      "date": "2029-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/822a8e8155af456abde08f4574987874/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.40",
+      "status": "taken",
+      "title": "1/ 116",
+      "type": "Single, balcony"
+    },
+    "3213": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/a011d23e98b04a3f9069a10fb55ac8d3/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.19",
+      "status": "taken",
+      "title": "1/ 117",
+      "type": "Single, balcony"
+    },
+    "3214": {
+      "date": "2028-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/e00abbb2d5aa4ef6aa3ac66fbc8f5bd1/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.10",
+      "status": "taken",
+      "title": "1/ 118",
+      "type": "Single, balcony"
+    },
+    "3215": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/6b2e5ef4ccd64500ae25945adef3697b/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.33",
+      "status": "taken",
+      "title": "1/ 120",
+      "type": "Single, balcony"
+    },
+    "3216": {
+      "date": "2029-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/5aa2ea8ebb8b4ad5b28f3b6bcca6dac3/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "1/ 121",
+      "type": "Single, balcony"
+    },
+    "3217": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/9485a9264dfc408681cf7a9bc1ceb0fa/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "1/ 122",
+      "type": "Single, balcony"
+    },
+    "3218": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/589df7a62b2043e1b2304051edefff60/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.28",
+      "status": "taken",
+      "title": "1/ 123",
+      "type": "Single, balcony"
+    },
+    "3219": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/065690172228466cbbe0e8ecc422becf/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.19",
+      "status": "taken",
+      "title": "1/ 124",
+      "type": "Single, balcony"
+    },
+    "3220": {
+      "date": "2029-01-01",
+      "link": "https://scs.onboarding.reos.software/contract/2bc42ed5c86e438bacc5beb6973b5e01/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.23",
+      "status": "taken",
+      "title": "1/ 125",
+      "type": "Single, balcony"
+    },
+    "3221": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/8a5d5838ac8b468f84b6d1a36d1fa517/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.16",
+      "status": "taken",
+      "title": "1/ 126",
+      "type": "Single, balcony"
+    },
+    "3222": {
+      "date": "2029-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/890afb164eb345aab4a5659862589c18/register",
+      "location": "Wilhelmstraße",
+      "rent": "505.50",
+      "size": "25.83",
+      "status": "taken",
+      "title": "1/ 128",
+      "type": "Single, balcony"
+    },
+    "3223": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/7cfc572f6a824088aa18f4b56ef9bd58/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "31.07",
+      "status": "taken",
+      "title": "1/ 127",
+      "type": "Single, balcony, barrier-free"
+    },
+    "3224": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/02c4f857aae34bbebdb632dfd6d6985a/register",
+      "location": "Wilhelmstraße",
+      "rent": "505.50",
+      "size": "25.83",
+      "status": "taken",
+      "title": "1/ 129",
+      "type": "Single, balcony"
+    },
+    "3225": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/cef80c05eb7b40ae99a49c0efe62ff80/register",
+      "location": "Wilhelmstraße",
+      "rent": "505.50",
+      "size": "25.83",
+      "status": "taken",
+      "title": "1/ 130",
+      "type": "Single, balcony"
+    },
+    "3226": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/3bd294acd10c4d659f05089e38d588a7/register",
+      "location": "Wilhelmstraße",
+      "rent": "505.50",
+      "size": "26.01",
+      "status": "taken",
+      "title": "1/ 131",
+      "type": "Single, balcony"
+    },
+    "3227": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/78b8f1d6a97947949e67ebda547468c6/register",
+      "location": "Wilhelmstraße",
+      "rent": "500.50",
+      "size": "22.19",
+      "status": "taken",
+      "title": "1/ 136",
+      "type": "Single, no balcony"
+    },
+    "3228": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/1e886837cb4c4907b799afc2587609eb/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "20.35",
+      "status": "taken",
+      "title": "1/ 137",
+      "type": "Single, no balcony"
+    },
+    "3229": {
+      "date": "2030-01-01",
+      "link": "https://scs.onboarding.reos.software/contract/3488c7907b764dd493205a3038bfaa3e/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "20.35",
+      "status": "taken",
+      "title": "1/ 138",
+      "type": "Single, no balcony"
+    },
+    "3230": {
+      "date": "2028-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/661d5f24eee148b79cd701caf9ae46a0/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "20.35",
+      "status": "taken",
+      "title": "1/ 139",
+      "type": "Single, no balcony"
+    },
+    "3231": {
+      "date": "2030-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/2381a5b862184f27bcd62563f1e85536/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "23.73",
+      "status": "taken",
+      "title": "1/ 140",
+      "type": "Single, balcony"
+    },
+    "3232": {
+      "date": "2029-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/6c633eca204d4170aabaf2c2d2d786b4/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.06",
+      "status": "taken",
+      "title": "1/ 141",
+      "type": "Single, balcony"
+    },
+    "3233": {
+      "date": "2029-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/ecf628b5019246d4a4c6c5f2ee6fe36a/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.06",
+      "status": "taken",
+      "title": "1/ 142",
+      "type": "Single, balcony"
+    },
+    "3234": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/2676304afe014ebc9fee78ac9251f97d/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.07",
+      "status": "taken",
+      "title": "1/ 143",
+      "type": "Single, balcony"
+    },
+    "3235": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/eff07f98751c461b8ef3ed4ea8e2a97d/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.21",
+      "status": "taken",
+      "title": "1/ 144",
+      "type": "Single, balcony"
+    },
+    "3236": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/9e43e6a2769c44a58da81ba27b194520/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "24.90",
+      "status": "taken",
+      "title": "1/ 145",
+      "type": "Single, balcony"
+    },
+    "3237": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/eec6511487fe4e498cb8fe63c4999175/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.07",
+      "status": "taken",
+      "title": "1/ 147",
+      "type": "Single, balcony"
+    },
+    "3238": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/cd7d522f84c045d0b9d3098138bab82f/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.06",
+      "status": "taken",
+      "title": "1/ 146",
+      "type": "Single, balcony"
+    },
+    "3239": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/79548166a0e942b3b3f7618e4f7df674/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.21",
+      "status": "taken",
+      "title": "1/ 148",
+      "type": "Single, balcony"
+    },
+    "3241": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/2b3f17ed276b42cfb7c2e363d0218c88/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.37",
+      "status": "taken",
+      "title": "2/ 201",
+      "type": "Single, balcony"
+    },
+    "3242": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/0aa960599ed246328f3fb2b32bd5c36c/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "2/ 202",
+      "type": "Single, balcony"
+    },
+    "3243": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/63b7f5f79eb7474190f408af9413c986/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "2/ 203",
+      "type": "Single, balcony"
+    },
+    "3244": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/95831bfb62a341d8a4232b8ae0ee3d5f/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "2/ 204",
+      "type": "Single, balcony"
+    },
+    "3245": {
+      "date": "2028-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/95043b5161f3459f8bdd7d4b3c20c7f3/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "2/ 205",
+      "type": "Single, balcony"
+    },
+    "3246": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/e894c2045c4a4126836503c0800227f8/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "2/ 206",
+      "type": "Single, balcony"
+    },
+    "3247": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/c13c858f0f2745b4b9d2fa7d1a5bc339/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "2/ 207",
+      "type": "Single, balcony"
+    },
+    "3248": {
+      "date": "2028-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/e59e8c7fc5a5483e88f7a16435ee1d07/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.28",
+      "status": "taken",
+      "title": "2/ 208",
+      "type": "Single, balcony"
+    },
+    "3249": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/51eff5179b404e3e90133fea5dd74c88/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.19",
+      "status": "taken",
+      "title": "2/ 209",
+      "type": "Single, balcony"
+    },
+    "3250": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/7f6306973d774bc99c511a95079b321a/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "2/ 210",
+      "type": "Single, balcony"
+    },
+    "3251": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/ba476884fa3a4ee1aa9c92dafea6a149/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.23",
+      "status": "taken",
+      "title": "2/ 211",
+      "type": "Single, balcony"
+    },
+    "3252": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/00ff5c9385bf4ebb9e5ce8fdf3cd776f/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "26.86",
+      "status": "taken",
+      "title": "2/ 212",
+      "type": "Single, balcony"
+    },
+    "3253": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/20422a6adbd24681856cec0054edca20/register",
+      "location": "Inner courtyard",
+      "rent": "505.50",
+      "size": "25.84",
+      "status": "taken",
+      "title": "2/ 214",
+      "type": "Single, balcony"
+    },
+    "3254": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/b9a14b55146a46bbad0f058ed05dbd3c/register",
+      "location": "Inner courtyard",
+      "rent": "505.50",
+      "size": "25.82",
+      "status": "taken",
+      "title": "2/ 213",
+      "type": "Single, balcony"
+    },
+    "3255": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/39d5ce4e9bee42a7801458e48a58a9ba/register",
+      "location": "Inner courtyard",
+      "rent": "505.50",
+      "size": "26.00",
+      "status": "taken",
+      "title": "2/ 215",
+      "type": "Single, balcony"
+    },
+    "3256": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/82268d680ce14d1b9a8c0a0465402324/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.69",
+      "status": "taken",
+      "title": "2/ 216",
+      "type": "Single, balcony"
+    },
+    "3257": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/d7e029b8a0264b64a0e004dfdf3ae2ba/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.19",
+      "status": "taken",
+      "title": "2/ 217",
+      "type": "Single, balcony"
+    },
+    "3258": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/36b0945292be47f5a00c9c1b67f9955a/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.1",
+      "status": "taken",
+      "title": "2/ 218",
+      "type": "Single, balcony"
+    },
+    "3259": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/928702ee71b74384a6195c4195006e41/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.06",
+      "status": "taken",
+      "title": "2/ 220",
+      "type": "Single, balcony"
+    },
+    "3260": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/288419de106a43e29987ea833c6c5354/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "2/ 221",
+      "type": "Single, balcony"
+    },
+    "3261": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/4878331154454009b00d264f17af8913/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "2/ 222",
+      "type": "Single, balcony"
+    },
+    "3263": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/f374cc0bda2e498cbf1f756549b6ac42/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.19",
+      "status": "taken",
+      "title": "2/ 224",
+      "type": "Single, balcony"
+    },
+    "3264": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/913d1f8dbd634f84ac2c804e4bcf3868/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "2/ 225",
+      "type": "Single, balcony"
+    },
+    "3265": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/cdd8be7a347c4eff8c79d85672027cef/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.23",
+      "status": "taken",
+      "title": "2/ 226",
+      "type": "Single, balcony"
+    },
+    "3266": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/b87aca222deb48e1b1d1674364484200/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "31.13",
+      "status": "taken",
+      "title": "2/ 227",
+      "type": "Single, balcony, barrier-free"
+    },
+    "3267": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/9432e1edae8b4cf5929023507c42e93a/register",
+      "location": "Wilhelmstraße",
+      "rent": "505.50",
+      "size": "25.83",
+      "status": "taken",
+      "title": "2/ 228",
+      "type": "Single, balcony"
+    },
+    "3268": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/9d714c49ee3a42f8ba2dc62995bbb237/register",
+      "location": "Wilhelmstraße",
+      "rent": "505.50",
+      "size": "25.83",
+      "status": "taken",
+      "title": "2/ 229",
+      "type": "Single, balcony"
+    },
+    "3269": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/af44f2fa2e0343369c0e524ce86264f5/register",
+      "location": "Wilhelmstraße",
+      "rent": "505.50",
+      "size": "25.84",
+      "status": "taken",
+      "title": "2/ 230",
+      "type": "Single, balcony"
+    },
+    "3270": {
+      "date": "2028-01-01",
+      "link": "https://scs.onboarding.reos.software/contract/2ed05306a5df407e8953346e66674aba/register",
+      "location": "Wilhelmstraße",
+      "rent": "505.50",
+      "size": "26.02",
+      "status": "taken",
+      "title": "2/ 231",
+      "type": "Single, balcony"
+    },
+    "3271": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/8484a67ce4114f2196783560a0e25feb/register",
+      "location": "Wilhelmstraße",
+      "rent": "500.50",
+      "size": "22.2",
+      "status": "taken",
+      "title": "2/ 236",
+      "type": "Single, no balcony"
+    },
+    "3272": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/fe41974af5ec4cdd84c57e9fdf1bd19a/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "20.35",
+      "status": "taken",
+      "title": "2/ 237",
+      "type": "Single, no balcony"
+    },
+    "3273": {
+      "date": "2029-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/04ca1a9af4da4de195ce574faf032674/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "20.36",
+      "status": "taken",
+      "title": "2/ 238",
+      "type": "Single, no balcony"
+    },
+    "3274": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/ecc9f19e5c8740ff9b3fbdd9b1a74a7a/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "20.36",
+      "status": "taken",
+      "title": "2/ 239",
+      "type": "Single, no balcony"
+    },
+    "3275": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/bc51512011c44e6989f2201c7b83e5a2/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "23.74",
+      "status": "taken",
+      "title": "2/ 240",
+      "type": "Single, balcony"
+    },
+    "3276": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/dfc23a2f686b489b870721662c58dd91/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.06",
+      "status": "taken",
+      "title": "2/ 241",
+      "type": "Single, balcony"
+    },
+    "3277": {
+      "date": "2029-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/96d3af694866412b8bf6729d6995a223/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.06",
+      "status": "taken",
+      "title": "2/ 242",
+      "type": "Single, balcony"
+    },
+    "3278": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/90f37da127314834b8a8474dea24723b/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.06",
+      "status": "taken",
+      "title": "2/ 243",
+      "type": "Single, balcony"
+    },
+    "3279": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/ea00d1afa5f74cb3a6fc32b441b714b3/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.21",
+      "status": "taken",
+      "title": "2/ 244",
+      "type": "Single, balcony"
+    },
+    "3280": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/c022a46fa40442f2a5bd652190eb111d/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "24.91",
+      "status": "taken",
+      "title": "2/ 245",
+      "type": "Single, balcony"
+    },
+    "3281": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/71795d9c16c44984ba6227c526c1677b/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.06",
+      "status": "taken",
+      "title": "2/ 246",
+      "type": "Single, balcony"
+    },
+    "3282": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/ffa081cd03f74e52a57f9175d5f0e6ec/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.06",
+      "status": "taken",
+      "title": "2/ 247",
+      "type": "Single, balcony"
+    },
+    "3283": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/59da41fba3cf493da3a1e4f0048cd776/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.21",
+      "status": "taken",
+      "title": "2/ 248",
+      "type": "Single, balcony"
+    },
+    "3285": {
+      "date": "2029-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/0181351f72f04f7db6c50fe26babb44c/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.36",
+      "status": "taken",
+      "title": "3/ 301",
+      "type": "Single, balcony"
+    },
+    "3286": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/ee223aaa2cdc476e934cba18ceef2858/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.21",
+      "status": "taken",
+      "title": "3/ 302",
+      "type": "Single, balcony"
+    },
+    "3287": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/c2f3bab3a43545cc8e58a29d13522228/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.20",
+      "status": "taken",
+      "title": "3/ 303",
+      "type": "Single, balcony"
+    },
+    "3288": {
+      "date": "2028-01-01",
+      "link": "https://scs.onboarding.reos.software/contract/d54a55ef7e3244bfaa26b93215bd06e0/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.2",
+      "status": "taken",
+      "title": "3/ 304",
+      "type": "Single, balcony"
+    },
+    "3289": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/8b4f00854f2d4c5795290708a901560a/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.20",
+      "status": "taken",
+      "title": "3/ 305",
+      "type": "Single, balcony"
+    },
+    "3291": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/779d96232dc4472dbd5d35797b12cbe0/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.2",
+      "status": "taken",
+      "title": "3/ 307",
+      "type": "Single, balcony"
+    },
+    "3292": {
+      "date": "2028-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/94e0931e994246868ee831553d08db40/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.26",
+      "status": "taken",
+      "title": "3/ 308",
+      "type": "Single, balcony"
+    },
+    "3293": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/9325ef0bb03942fdb56e106ac8c2ada8/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.17",
+      "status": "taken",
+      "title": "3/ 309",
+      "type": "Single, balcony"
+    },
+    "3294": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/689f77eb20f14c32a8ed441673de5176/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.20",
+      "status": "taken",
+      "title": "3/ 310",
+      "type": "Single, balcony"
+    },
+    "3295": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/26320d92e824406b999edfdbf296dd6d/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.23",
+      "status": "taken",
+      "title": "3/ 311",
+      "type": "Single, balcony"
+    },
+    "3296": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/93fe27ca7673403294abfaaf6ede6184/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "26.84",
+      "status": "taken",
+      "title": "3/ 312",
+      "type": "Single, balcony"
+    },
+    "3297": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/ab0a206ac183487b81b2d031c18803e8/register",
+      "location": "Inner courtyard",
+      "rent": "505.50",
+      "size": "25.82",
+      "status": "taken",
+      "title": "3/ 313",
+      "type": "Single, balcony"
+    },
+    "3298": {
+      "date": "2028-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/49065a7a98234382a5db8e6b11cef4d7/register",
+      "location": "Inner courtyard",
+      "rent": "505.50",
+      "size": "25.83",
+      "status": "taken",
+      "title": "3/ 314",
+      "type": "Single, balcony"
+    },
+    "3299": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/b29c45452dcb4874802ef9cbcbaebedb/register",
+      "location": "Inner courtyard",
+      "rent": "505.50",
+      "size": "25.95",
+      "status": "taken",
+      "title": "3/ 315",
+      "type": "Single, balcony"
+    },
+    "3300": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/9bbcaaca1dea4672816576d0aca9916f/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.18",
+      "status": "taken",
+      "title": "3/ 317",
+      "type": "Single, balcony"
+    },
+    "3301": {
+      "date": "2028-01-01",
+      "link": "https://scs.onboarding.reos.software/contract/e8d1a84c4a0348039cc82eff995074b7/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.09",
+      "status": "taken",
+      "title": "3/ 318",
+      "type": "Single, balcony"
+    },
+    "3302": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/1e921db20eaa47f682495217fec32548/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.05",
+      "status": "taken",
+      "title": "3/ 320",
+      "type": "Single, balcony"
+    },
+    "3304": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/520f024f886e45d786c896a5450de28b/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.21",
+      "status": "taken",
+      "title": "3/ 322",
+      "type": "Single, balcony"
+    },
+    "3306": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/4febc9e5f7b844e3ba49b1a6762a2887/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.18",
+      "status": "taken",
+      "title": "3/ 324",
+      "type": "Single, balcony"
+    },
+    "3307": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/20f6ab17ce6846268f4af0888d5cc673/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.21",
+      "status": "taken",
+      "title": "3/ 325",
+      "type": "Single, balcony"
+    },
+    "3308": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/ccbca8ba0d9545419a5cc04bbc4b16c9/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "3/ 326",
+      "type": "Single, balcony"
+    },
+    "3309": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/4266e24914104ec0b7bc0a0e92f57d31/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "31.12",
+      "status": "taken",
+      "title": "3/ 327",
+      "type": "Single, balcony, barrier-free"
+    },
+    "3310": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/b7dd9b09c0fe4023b1fd1337a083fb0d/register",
+      "location": "Wilhelmstraße",
+      "rent": "505.50",
+      "size": "25.82",
+      "status": "taken",
+      "title": "3/ 328",
+      "type": "Single, balcony"
+    },
+    "3311": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/c6d170b49b844bb59d267a577d132f57/register",
+      "location": "Wilhelmstraße",
+      "rent": "505.50",
+      "size": "25.83",
+      "status": "taken",
+      "title": "3/ 329",
+      "type": "Single, balcony"
+    },
+    "3312": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/7b8c8492480e489ea921b276ec37d15d/register",
+      "location": "Wilhelmstraße",
+      "rent": "505.50",
+      "size": "25.82",
+      "status": "taken",
+      "title": "3/ 330",
+      "type": "Single, balcony"
+    },
+    "3313": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/b97670fd0d7a4193a496b64b4c7ac818/register",
+      "location": "Wilhelmstraße",
+      "rent": "505.50",
+      "size": "26.02",
+      "status": "taken",
+      "title": "3/ 331",
+      "type": "Single, balcony"
+    },
+    "3314": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/7961a69be2a24ec78859a2c21091f21d/register",
+      "location": "Wilhelmstraße",
+      "rent": "500.50",
+      "size": "22.19",
+      "status": "taken",
+      "title": "3/ 336",
+      "type": "Single, no balcony"
+    },
+    "3315": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/2852165822ff4088aeb490b767bad334/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "20.34",
+      "status": "taken",
+      "title": "3/ 337",
+      "type": "Single, no balcony"
+    },
+    "3316": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/3ad07c7c4da34cbab874d7515aa96ffd/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "20.33",
+      "status": "taken",
+      "title": "3/ 338",
+      "type": "Single, no balcony"
+    },
+    "3317": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/e50d88e83f1c449bb8b54b4f5599872b/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "20.33",
+      "status": "taken",
+      "title": "3/ 339",
+      "type": "Single, no balcony"
+    },
+    "3318": {
+      "date": "2029-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/4af90c1fa76244169d0bd72b8d0ccd91/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "23.73",
+      "status": "taken",
+      "title": "3/ 340",
+      "type": "Single, balcony"
+    },
+    "3319": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/162b03cc2edf4709a2337b6806fe449b/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.05",
+      "status": "taken",
+      "title": "3/ 341",
+      "type": "Single, balcony"
+    },
+    "3320": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/54be168691934995b80f5abd2bc9468c/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.05",
+      "status": "taken",
+      "title": "3/ 342",
+      "type": "Single, balcony"
+    },
+    "3321": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/07072284e2b9465c960e04a91932a3b9/register",
+      "location": "Inner courtyard",
+      "rent": "505.50",
+      "size": "25.05",
+      "status": "taken",
+      "title": "3/ 343",
+      "type": "Single, balcony"
+    },
+    "3322": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/2edd3f7daead4b6ea547298c725a456e/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.21",
+      "status": "taken",
+      "title": "3/ 344",
+      "type": "Single, balcony"
+    },
+    "3323": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/70b503164d0d421a9df042e94f3a0f12/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "24.90",
+      "status": "taken",
+      "title": "3/ 345",
+      "type": "Single, balcony"
+    },
+    "3324": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/54ad31291d6d4ccc93e448735c318f90/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.05",
+      "status": "taken",
+      "title": "3/ 346",
+      "type": "Single, balcony"
+    },
+    "3325": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/2c41322990ef425caf6193305ada7152/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.05",
+      "status": "taken",
+      "title": "3/ 347",
+      "type": "Single, balcony"
+    },
+    "3326": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/4be591826644410d81e4219bafdef012/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.20",
+      "status": "taken",
+      "title": "3/ 348",
+      "type": "Single, balcony"
+    },
+    "3327": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/d1e77a37dc2d482b89a87092902ee9c0/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.37",
+      "status": "taken",
+      "title": "4/ 401",
+      "type": "Single, balcony"
+    },
+    "3329": {
+      "date": "2028-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/e0fa234ea26a43409b8f4135e492ece9/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "4/ 402",
+      "type": "Single, balcony"
+    },
+    "3330": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/f9a6ba0c603f48d993a433abe71f345e/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "4/ 403",
+      "type": "Single, balcony"
+    },
+    "3331": {
+      "date": "2028-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/41ab0e35e264495196d7f85f7fd0a5dc/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "4/ 404",
+      "type": "Single, balcony"
+    },
+    "3332": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/091dd71173244d5aa66577e4c69c5308/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "4/ 405",
+      "type": "Single, balcony"
+    },
+    "3333": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/bf98bde591784a80b915a079cd9cb382/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "4/ 406",
+      "type": "Single, balcony"
+    },
+    "3334": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/1b19901c3f91444ba99263207c78500a/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "4/ 407",
+      "type": "Single, balcony"
+    },
+    "3335": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/1de2a9d8f71e4323bacfc552810df13d/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.28",
+      "status": "taken",
+      "title": "4/ 408",
+      "type": "Single, balcony"
+    },
+    "3336": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/833432cf565a4512be2e58c22786a78a/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.19",
+      "status": "taken",
+      "title": "4/ 409",
+      "type": "Single, balcony"
+    },
+    "3337": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/6dc92ad351af4ffe88802953e87b15f6/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.22",
+      "status": "taken",
+      "title": "4/ 410",
+      "type": "Single, balcony"
+    },
+    "3338": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/36e43548e12743d59af45cac51a7c09a/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "27.23",
+      "status": "taken",
+      "title": "4/ 411",
+      "type": "Single, balcony"
+    },
+    "3339": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/eef6938ac587435a91c3ad73c8f4c3d4/register",
+      "location": "Inner courtyard",
+      "rent": "505.50",
+      "size": "25.91",
+      "status": "taken",
+      "title": "4/ 413",
+      "type": "Single, balcony"
+    },
+    "3340": {
+      "date": "2028-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/6bdcbaa4352e4975bbc01282ffc29f4d/register",
+      "location": "Inner courtyard",
+      "rent": "505.50",
+      "size": "25.84",
+      "status": "taken",
+      "title": "4/ 414",
+      "type": "Single, balcony"
+    },
+    "3341": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/a3137e936696411ba9f3fec543665242/register",
+      "location": "Inner courtyard",
+      "rent": "505.50",
+      "size": "25.96",
+      "status": "taken",
+      "title": "4/ 415",
+      "type": "Single, balcony"
+    },
+    "3342": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/fec0b0cb2c0540c2b44c86cab754adb7/register",
+      "location": "Wilhelmstraße",
+      "rent": "755.50",
+      "size": "44.36",
+      "status": "taken",
+      "title": "4/ 416",
+      "type": "Partner, balcony"
+    },
+    "3343": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/fda92c96c8d54483a8aed5567996d457/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "24.82",
+      "status": "taken",
+      "title": "4/ 417",
+      "type": "Single, balcony, limited furnishing"
+    },
+    "3344": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/ba7413f6700948f78e9797de5b137614/register",
+      "location": "Wilhelmstraße",
+      "rent": "755.50",
+      "size": "44.45",
+      "status": "taken",
+      "title": "4/ 419",
+      "type": "Partner, balcony"
+    },
+    "3345": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/8f24e9ecc8cd49c69b8836005f44bc0e/register",
+      "location": "Wilhelmstraße",
+      "rent": "755.50",
+      "size": "44.51",
+      "status": "taken",
+      "title": "4/ 420",
+      "type": "Partner, balcony"
+    },
+    "3347": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/43f4b7f2c5f24424ac6e6021ab279841/register",
+      "location": "Wilhelmstraße",
+      "rent": "755.50",
+      "size": "47.72",
+      "status": "taken",
+      "title": "4/ 422",
+      "type": "Partner, balcony"
+    },
+    "3348": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/55d6aecdb5034cbd8dc363d4880e4aed/register",
+      "location": "Wilhelmstraße",
+      "rent": "755.50",
+      "size": "42.32",
+      "status": "taken",
+      "title": "4/ 423",
+      "type": "Partner, balcony"
+    },
+    "3349": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/53606f8bd04b4a4486d314eae4820745/register",
+      "location": "Wilhelmstraße",
+      "rent": "755.50",
+      "size": "42.13",
+      "status": "taken",
+      "title": "4/ 424",
+      "type": "Partner, balcony"
+    },
+    "3350": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/3e78d4c554144162b5b31aa2ee11da41/register",
+      "location": "Wilhelmstraße",
+      "rent": "500.50",
+      "size": "22.19",
+      "status": "taken",
+      "title": "4/ 426",
+      "type": "Single, no balcony"
+    },
+    "3351": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/c9915cb00ce4459592e19b19900c0e56/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "20.35",
+      "status": "taken",
+      "title": "4/ 427",
+      "type": "Single, no balcony"
+    },
+    "3352": {
+      "date": "2029-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/059405cfb0834c9da9c847842e3a9d19/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "20.35",
+      "status": "taken",
+      "title": "4/ 428",
+      "type": "Single, no balcony"
+    },
+    "3353": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/d6e4105f5c774b3aa9024821dbe2178e/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "20.35",
+      "status": "taken",
+      "title": "4/ 429",
+      "type": "Single, no balcony"
+    },
+    "3354": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/563eee9c906f4cb69d262dabce5b1e71/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "23.80",
+      "status": "taken",
+      "title": "4/ 430",
+      "type": "Single, balcony"
+    },
+    "3355": {
+      "date": "2028-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/46c43e74b1e24b4c805f373551846970/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.12",
+      "status": "taken",
+      "title": "4/ 431",
+      "type": "Single, balcony"
+    },
+    "3356": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/d6f0bf9e9cef42e8bdc02574b95ba163/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.12",
+      "status": "taken",
+      "title": "4/ 432",
+      "type": "Single, balcony"
+    },
+    "3357": {
+      "date": "2029-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/0818c60db8eb446a9577084c186e26f4/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.12",
+      "status": "taken",
+      "title": "4/ 433",
+      "type": "Single, balcony"
+    },
+    "3358": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/7bb193056e5e4655918746b7e3f6b229/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.37",
+      "status": "taken",
+      "title": "4/ 434",
+      "type": "Single, balcony"
+    },
+    "3359": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/d72f5e57057a453687a2d5712a2ed073/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "24.91",
+      "status": "taken",
+      "title": "4/ 435",
+      "type": "Single, balcony"
+    },
+    "3360": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/5440d228fd6a4d9aad7902e0af3c36a7/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.06",
+      "status": "taken",
+      "title": "4/ 436",
+      "type": "Single, balcony"
+    },
+    "3361": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/617882c1b025411baba33bddfa5d3cb5/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.07",
+      "status": "taken",
+      "title": "4/ 437",
+      "type": "Single, balcony"
+    },
+    "3362": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/bf9343f0ddbb42ed96e7cff0a7fc329b/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.22",
+      "status": "taken",
+      "title": "4/ 438",
+      "type": "Single, balcony"
+    },
+    "3364": {
+      "date": "2028-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/5bcf8009e66e4ccb9be22a9b0038dfae/register",
+      "location": "Wilhelmstraße",
+      "rent": "500.50",
+      "size": "22.53",
+      "status": "taken",
+      "title": "5/ 504",
+      "type": "Single, no balcony"
+    },
+    "3365": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/495b641452b2492393559407183456d1/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "20.41",
+      "status": "taken",
+      "title": "5/ 505",
+      "type": "Single, no balcony"
+    },
+    "3366": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/3a0cbf1337a843389343bebc0344d50e/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "20.35",
+      "status": "taken",
+      "title": "5/ 506",
+      "type": "Single, no balcony"
+    },
+    "3367": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/9bd6a452b8f44cc8baccfcf8998077a3/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "20.35",
+      "status": "taken",
+      "title": "5/ 507",
+      "type": "Single, no balcony"
+    },
+    "3368": {
+      "date": "2028-01-01",
+      "link": "https://scs.onboarding.reos.software/contract/dd24ab1db70d42f2ac045da808026a2f/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "24.97",
+      "status": "taken",
+      "title": "5/ 508",
+      "type": "Single, balcony"
+    },
+    "3370": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/d731510d1b9640ec86467132a853cedf/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.12",
+      "status": "taken",
+      "title": "5/ 510",
+      "type": "Single, balcony"
+    },
+    "3371": {
+      "date": "2028-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/e48b9e1180e943c497a344b7f9e4254f/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.12",
+      "status": "taken",
+      "title": "5/ 511",
+      "type": "Single, balcony"
+    },
+    "3372": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/3758e1737fc348308580bb8706b169b0/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.28",
+      "status": "taken",
+      "title": "5/ 512",
+      "type": "Single, balcony"
+    },
+    "3373": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/d6f480148b8748fd8146e19f8e2af076/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "24.91",
+      "status": "taken",
+      "title": "5/ 513",
+      "type": "Single, balcony"
+    },
+    "3374": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/844459a0b52f467ea98de6286a4a591e/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.06",
+      "status": "taken",
+      "title": "5/ 514",
+      "type": "Single, balcony"
+    },
+    "3375": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/f9fd89321734492a8b989bfc0732a81c/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.06",
+      "status": "taken",
+      "title": "5/ 515",
+      "type": "Single, balcony"
+    },
+    "3376": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/689e1d6696e74894b9231a6a4a1988f2/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.22",
+      "status": "taken",
+      "title": "5/ 516",
+      "type": "Single, balcony"
+    },
+    "3380": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/ac453ab279704b7c9b2274661c2c2e7d/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "20.35",
+      "status": "taken",
+      "title": "6/ 602",
+      "type": "Single, no balcony"
+    },
+    "3382": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/4a7cc75322304fe587451d3914a7d9b7/register",
+      "location": "Wilhelmstraße",
+      "rent": "475.50",
+      "size": "20.35",
+      "status": "taken",
+      "title": "6/ 604",
+      "type": "Single, no balcony"
+    },
+    "3383": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/6e1d1869a56343c795184db15ad930d7/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "24.91",
+      "status": "taken",
+      "title": "6/ 605",
+      "type": "Single, balcony"
+    },
+    "3384": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/aa492c5660074271bd5289a9566749ec/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.06",
+      "status": "taken",
+      "title": "6/ 606",
+      "type": "Single, balcony"
+    },
+    "3385": {
+      "date": "2027-04-01",
+      "link": "https://scs.onboarding.reos.software/contract/449b16343d034a82baacdd8abd57914f/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.06",
+      "status": "taken",
+      "title": "6/ 607",
+      "type": "Single, balcony"
+    },
+    "3386": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/c000a925c7104dafa15acf6eccc244d4/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.06",
+      "status": "taken",
+      "title": "6/ 608",
+      "type": "Single, balcony"
+    },
+    "3387": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/05de7eddd3cf42daa1163fc79894edef/register",
+      "location": "Inner courtyard",
+      "rent": "500.50",
+      "size": "25.22",
+      "status": "taken",
+      "title": "6/ 609",
+      "type": "Single, balcony"
+    },
+    "3388": {
+      "date": "2028-01-01",
+      "link": "https://scs.onboarding.reos.software/contract/a586d80c271c4f3ca424994c7565f1ef/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "24.91",
+      "status": "taken",
+      "title": "6/ 610",
+      "type": "Single, balcony"
+    },
+    "3389": {
+      "date": "2027-07-01",
+      "link": "https://scs.onboarding.reos.software/contract/47d2480693884b1d832f08ebe74868f1/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.06",
+      "status": "taken",
+      "title": "6/ 611",
+      "type": "Single, balcony"
+    },
+    "3390": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/d6e11bb9f8b34be2958176d913fe1285/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.06",
+      "status": "taken",
+      "title": "6/ 612",
+      "type": "Single, balcony"
+    },
+    "3391": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/7fc78421013f4280bf689b94efa0e5b7/register",
+      "location": "Südstraße",
+      "rent": "500.50",
+      "size": "25.22",
+      "status": "taken",
+      "title": "6/ 613",
+      "type": "Single, balcony"
+    },
+    "3509": {
+      "date": "2028-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/c74c93a1a1df4818ac3ca0f457ec8525/register",
+      "location": "Wilhelmstraße",
+      "rent": "520.50",
+      "size": "27.68",
+      "status": "taken",
+      "title": "3/ 316",
+      "type": "Single, balcony"
+    },
+    "3510": {
+      "date": "2027-10-01",
+      "link": "https://scs.onboarding.reos.software/contract/40a522d8c023434ba7221955987bf7d2/register",
+      "location": "Inner courtyard",
+      "rent": "520.50",
+      "size": "26.93",
+      "status": "taken",
+      "title": "4/ 412",
+      "type": "Single, balcony"
+    }
+  },
+  "heartbeat": "2026-W44",
+  "warned": false
+}
