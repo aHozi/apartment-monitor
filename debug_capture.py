@@ -37,7 +37,7 @@ def on_response(resp):
         "method": req.method,
         "url": resp.url,
         "status": resp.status,
-        "request_headers": req.headers,
+        "request_headers": {k: v for k, v in req.headers.items() if k.lower() not in ("authorization", "cookie")},
         "post_data": req.post_data,
         "content_type": resp.headers.get("content-type"),
         "body": body[:200000],
