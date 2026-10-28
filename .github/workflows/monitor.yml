@@ -42,6 +42,8 @@ jobs:
           curl -sSL -A "Mozilla/5.0 (X11; Linux x86_64) Chrome/126.0" -H "Accept-Language: en,de;q=0.8" \
             -o page.html https://www.apartments-hn.de/en/book-apartment
           python monitor.py --dump --file page.html | tee dump.txt
+          pip install -q playwright==1.47.0 && python -m playwright install --with-deps chromium > /dev/null
+          python debug_capture.py
 
       - name: Debug - push page HTML to the "debug" branch
         if: ${{ inputs.debug }}
@@ -50,7 +52,7 @@ jobs:
           git config user.email "apartment-bot@users.noreply.github.com"
           git checkout --orphan debug
           git rm -rq --cached .
-          git add -f page.html dump.txt
+          git add -f page.html dump.txt rendered.html network.json
           git commit -qm "Debug snapshot of the booking page"
           git push -f origin debug
 
