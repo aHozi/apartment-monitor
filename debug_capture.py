@@ -2,6 +2,7 @@
 """Debug helper: open the booking page in a real browser and save
 - rendered.html : the page after JavaScript has loaded the apartment list
 - network.json  : every data (XHR/fetch) request the page made, with its response
+- scripts.json  : the JavaScript files that handle the apartment list
 """
 
 import json
@@ -13,8 +14,19 @@ URL = "https://www.apartments-hn.de/en/book-apartment"
 calls = []
 
 
+scripts = {}
+
+
 def on_response(resp):
     req = resp.request
+    if req.resource_type == "script":
+        try:
+            text = resp.text()
+        except Exception:
+            return
+        if "next_rental_begin" in text or "available_for_rent" in text:
+            scripts[resp.url] = text
+        return
     if req.resource_type not in ("xhr", "fetch"):
         return
     try:
@@ -45,6 +57,7 @@ with sync_playwright() as p:
     open("rendered.html", "w", encoding="utf-8").write(page.content())
     browser.close()
 
+json.dump(scripts, open("scripts.json", "w", encoding="utf-8"), indent=2, ensure_ascii=False)
 json.dump(calls, open("network.json", "w", encoding="utf-8"), indent=2, ensure_ascii=False)
 for c in calls:
     print(c["status"], c["method"], c["url"], c["content_type"], len(c["body"]))

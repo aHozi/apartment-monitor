@@ -52,7 +52,7 @@ jobs:
           git config user.email "apartment-bot@users.noreply.github.com"
           git checkout --orphan debug
           git rm -rq --cached .
-          git add -f page.html dump.txt rendered.html network.json
+          git add -f page.html dump.txt rendered.html network.json scripts.json
           git commit -qm "Debug snapshot of the booking page"
           git push -f origin debug
 
