@@ -207,6 +207,10 @@ def main():
         print(f"\n{len(apartments)} apartments: {counts}" + (f"\nProblem: {problem}" if problem else ""))
         return 1 if problem else 0
 
+    if not args.dry_run and not (os.getenv("TELEGRAM_BOT_TOKEN") and os.getenv("TELEGRAM_CHAT_ID")):
+        print("::warning::TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID secrets are not set yet. Skipping.")
+        return 0
+
     state = load_state()
     first_run = "apartments" not in state
     old = state.get("apartments", {})
