@@ -6,7 +6,7 @@ on:
   workflow_dispatch:          # "Run workflow" button for manual tests
     inputs:
       debug:
-        description: "Debug: only show what the parser finds (sends nothing) and save the page HTML"
+        description: "Debug: list all apartments + save page snapshot to the 'debug' branch (sends nothing)"
         type: boolean
         default: false
 
@@ -20,7 +20,7 @@ concurrency:
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
 
@@ -31,38 +31,20 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      # Only needed if the listings are loaded by JavaScript (then also set USE_BROWSER: "1" below)
-      # - run: pip install playwright==1.47.0 && python -m playwright install --with-deps chromium
+      - name: Cache browser
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ hashFiles('requirements.txt') }}
 
-      - name: Debug - show parsed listings and save page HTML
-        if: ${{ inputs.debug }}
-        env:
-          CARD_SELECTOR: ${{ vars.CARD_SELECTOR }}
-        run: |
-          curl -sSL -A "Mozilla/5.0 (X11; Linux x86_64) Chrome/126.0" -H "Accept-Language: en,de;q=0.8" \
-            -o page.html https://www.apartments-hn.de/en/book-apartment
-          python monitor.py --dump --file page.html | tee dump.txt
-          pip install -q playwright==1.47.0 && python -m playwright install --with-deps chromium > /dev/null
-          python debug_capture.py
-
-      - name: Debug - push page HTML to the "debug" branch
-        if: ${{ inputs.debug }}
-        run: |
-          git config user.name "apartment-bot"
-          git config user.email "apartment-bot@users.noreply.github.com"
-          git checkout --orphan debug
-          git rm -rq --cached .
-          git add -f page.html dump.txt rendered.html network.json scripts.json
-          git commit -qm "Debug snapshot of the booking page"
-          git push -f origin debug
+      - name: Install headless browser
+        run: python -m playwright install --with-deps chromium
 
       - name: Check apartments
         if: ${{ !inputs.debug }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          CARD_SELECTOR: ${{ vars.CARD_SELECTOR }}
-          USE_BROWSER: "0"
         run: python monitor.py
 
       - name: Save state
@@ -72,3 +54,21 @@ jobs:
           git config user.email "apartment-bot@users.noreply.github.com"
           git add state.json
           git diff --cached --quiet || (git commit -m "Update apartment state" && git push)
+
+      # ---- debug mode only ----
+      - name: Debug - list apartments and capture the page
+        if: ${{ inputs.debug }}
+        run: |
+          python debug_capture.py
+          python monitor.py --dump --file network.json | tee dump.txt
+
+      - name: Debug - push snapshot to the "debug" branch
+        if: ${{ inputs.debug }}
+        run: |
+          git config user.name "apartment-bot"
+          git config user.email "apartment-bot@users.noreply.github.com"
+          git checkout --orphan debug
+          git rm -rq --cached .
+          git add -f dump.txt rendered.html network.json scripts.json
+          git commit -qm "Debug snapshot of the booking page"
+          git push -f origin debug
