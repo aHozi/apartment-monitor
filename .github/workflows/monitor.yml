@@ -41,14 +41,18 @@ jobs:
         run: |
           curl -sSL -A "Mozilla/5.0 (X11; Linux x86_64) Chrome/126.0" -H "Accept-Language: en,de;q=0.8" \
             -o page.html https://www.apartments-hn.de/en/book-apartment
-          python monitor.py --dump --file page.html
+          python monitor.py --dump --file page.html | tee dump.txt
 
-      - name: Debug - upload page HTML
+      - name: Debug - push page HTML to the "debug" branch
         if: ${{ inputs.debug }}
-        uses: actions/upload-artifact@v4
-        with:
-          name: page-html
-          path: page.html
+        run: |
+          git config user.name "apartment-bot"
+          git config user.email "apartment-bot@users.noreply.github.com"
+          git checkout --orphan debug
+          git rm -rq --cached .
+          git add -f page.html dump.txt
+          git commit -qm "Debug snapshot of the booking page"
+          git push -f origin debug
 
       - name: Check apartments
         if: ${{ !inputs.debug }}
