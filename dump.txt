@@ -1,0 +1,205 @@
+  0/ 001 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  27.23 m² |  520.50 €
+  0/ 002 | ⛔ Already taken   | 2028-01-01 | Single, balcony        | Inner courtyard |  27.23 m² |  520.50 €
+  0/ 003 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Inner courtyard |  27.23 m² |  520.50 €
+  0/ 004 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Inner courtyard |  27.23 m² |  520.50 €
+  0/ 005 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  27.20 m² |  520.50 €
+  0/ 006 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Inner courtyard |  27.23 m² |  520.50 €
+  0/ 007 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Inner courtyard |  27.23 m² |  520.50 €
+  0/ 008 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  27.29 m² |  520.50 €
+  0/ 009 | ⛔ Already taken   | 2028-04-01 | Single, balcony        | Inner courtyard |  27.20 m² |  520.50 €
+  0/ 010 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  27.23 m² |  520.50 €
+  0/ 011 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Inner courtyard |  27.24 m² |  520.50 €
+  0/ 012 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  26.90 m² |  520.50 €
+  0/ 013 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  25.85 m² |  505.50 €
+  0/ 040 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  25.07 m² |  500.50 €
+  0/ 043 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Inner courtyard |  25.00 m² |  500.50 €
+  0/ 044 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  25.07 m² |  500.50 €
+  0/ 045 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  25.22 m² |  500.50 €
+  0/ 046 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Südstraße       |  24.91 m² |  500.50 €
+  0/ 047 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Südstraße       |  25.06 m² |  500.50 €
+  0/ 049 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Südstraße       |  25.21 m² |  500.50 €
+  1/ 101 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  27.39 m² |  520.50 €
+  1/ 102 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Inner courtyard |   27.2 m² |  520.50 €
+  1/ 103 | ⛔ Already taken   | 2029-07-01 | Single, balcony        | Inner courtyard |   27.2 m² |  520.50 €
+  1/ 104 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  27.20 m² |  520.50 €
+  1/ 105 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  27.20 m² |  520.50 €
+  1/ 106 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Inner courtyard |  27.19 m² |  520.50 €
+  1/ 107 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Inner courtyard |  27.20 m² |  520.50 €
+  1/ 108 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  27.20 m² |  520.50 €
+  1/ 109 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Inner courtyard |   27.2 m² |  520.50 €
+  1/ 110 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  27.21 m² |  520.50 €
+  1/ 111 | ⛔ Already taken   | 2029-10-01 | Single, balcony        | Inner courtyard |  27.21 m² |  520.50 €
+  1/ 112 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Inner courtyard |  26.85 m² |  520.50 €
+  1/ 113 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  25.82 m² |  505.50 €
+  1/ 114 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Inner courtyard |  25.91 m² |  505.50 €
+  1/ 115 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  25.66 m² |  500.50 €
+  1/ 116 | ⛔ Already taken   | 2029-10-01 | Single, balcony        | Wilhelmstraße   |  27.40 m² |  520.50 €
+  1/ 117 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Wilhelmstraße   |  27.19 m² |  520.50 €
+  1/ 118 | ⛔ Already taken   | 2028-04-01 | Single, balcony        | Wilhelmstraße   |  27.10 m² |  520.50 €
+  1/ 120 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Wilhelmstraße   |  27.33 m² |  520.50 €
+  1/ 121 | ⛔ Already taken   | 2029-10-01 | Single, balcony        | Wilhelmstraße   |  27.22 m² |  520.50 €
+  1/ 122 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Wilhelmstraße   |  27.22 m² |  520.50 €
+  1/ 123 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Wilhelmstraße   |  27.28 m² |  520.50 €
+  1/ 124 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Wilhelmstraße   |  27.19 m² |  520.50 €
+  1/ 125 | ⛔ Already taken   | 2029-01-01 | Single, balcony        | Wilhelmstraße   |  27.23 m² |  520.50 €
+  1/ 126 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Wilhelmstraße   |  27.16 m² |  520.50 €
+  1/ 127 | ⛔ Already taken   | 2027-04-01 | Single, balcony, barrier-free | Wilhelmstraße   |  31.07 m² |  520.50 €
+  1/ 128 | ⛔ Already taken   | 2029-10-01 | Single, balcony        | Wilhelmstraße   |  25.83 m² |  505.50 €
+  1/ 129 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Wilhelmstraße   |  25.83 m² |  505.50 €
+  1/ 130 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Wilhelmstraße   |  25.83 m² |  505.50 €
+  1/ 131 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Wilhelmstraße   |  26.01 m² |  505.50 €
+  1/ 136 | ⛔ Already taken   | 2028-10-01 | Single, no balcony     | Wilhelmstraße   |  22.19 m² |  500.50 €
+  1/ 137 | ⛔ Already taken   | 2027-10-01 | Single, no balcony     | Wilhelmstraße   |  20.35 m² |  475.50 €
+  1/ 138 | ⛔ Already taken   | 2030-01-01 | Single, no balcony     | Wilhelmstraße   |  20.35 m² |  475.50 €
+  1/ 139 | ⛔ Already taken   | 2028-04-01 | Single, no balcony     | Wilhelmstraße   |  20.35 m² |  475.50 €
+  1/ 140 | ⛔ Already taken   | 2030-04-01 | Single, balcony        | Inner courtyard |  23.73 m² |  500.50 €
+  1/ 141 | ⛔ Already taken   | 2029-10-01 | Single, balcony        | Inner courtyard |  25.06 m² |  500.50 €
+  1/ 142 | ⛔ Already taken   | 2029-10-01 | Single, balcony        | Inner courtyard |  25.06 m² |  500.50 €
+  1/ 143 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Inner courtyard |  25.07 m² |  500.50 €
+  1/ 144 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Inner courtyard |  25.21 m² |  500.50 €
+  1/ 145 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Südstraße       |  24.90 m² |  500.50 €
+  1/ 146 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Südstraße       |  25.06 m² |  500.50 €
+  1/ 147 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Südstraße       |  25.07 m² |  500.50 €
+  1/ 148 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Südstraße       |  25.21 m² |  500.50 €
+  2/ 201 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  27.37 m² |  520.50 €
+  2/ 202 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  27.22 m² |  520.50 €
+  2/ 203 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Inner courtyard |  27.22 m² |  520.50 €
+  2/ 204 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Inner courtyard |  27.22 m² |  520.50 €
+  2/ 205 | ⛔ Already taken   | 2028-04-01 | Single, balcony        | Inner courtyard |  27.22 m² |  520.50 €
+  2/ 206 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Inner courtyard |  27.22 m² |  520.50 €
+  2/ 207 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  27.22 m² |  520.50 €
+  2/ 208 | ⛔ Already taken   | 2028-07-01 | Single, balcony        | Inner courtyard |  27.28 m² |  520.50 €
+  2/ 209 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Inner courtyard |  27.19 m² |  520.50 €
+  2/ 210 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Inner courtyard |  27.22 m² |  520.50 €
+  2/ 211 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Inner courtyard |  27.23 m² |  520.50 €
+  2/ 212 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Inner courtyard |  26.86 m² |  520.50 €
+  2/ 213 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Inner courtyard |  25.82 m² |  505.50 €
+  2/ 214 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  25.84 m² |  505.50 €
+  2/ 215 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Inner courtyard |  26.00 m² |  505.50 €
+  2/ 216 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Wilhelmstraße   |  27.69 m² |  520.50 €
+  2/ 217 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Wilhelmstraße   |  27.19 m² |  520.50 €
+  2/ 218 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Wilhelmstraße   |   27.1 m² |  520.50 €
+  2/ 220 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Wilhelmstraße   |  27.06 m² |  520.50 €
+  2/ 221 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Wilhelmstraße   |  27.22 m² |  520.50 €
+  2/ 222 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Wilhelmstraße   |  27.22 m² |  520.50 €
+  2/ 224 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Wilhelmstraße   |  27.19 m² |  520.50 €
+  2/ 225 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Wilhelmstraße   |  27.22 m² |  520.50 €
+  2/ 226 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Wilhelmstraße   |  27.23 m² |  520.50 €
+  2/ 227 | ⛔ Already taken   | 2027-04-01 | Single, balcony, barrier-free | Wilhelmstraße   |  31.13 m² |  520.50 €
+  2/ 228 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Wilhelmstraße   |  25.83 m² |  505.50 €
+  2/ 229 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Wilhelmstraße   |  25.83 m² |  505.50 €
+  2/ 230 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Wilhelmstraße   |  25.84 m² |  505.50 €
+  2/ 231 | ⛔ Already taken   | 2028-01-01 | Single, balcony        | Wilhelmstraße   |  26.02 m² |  505.50 €
+  2/ 236 | ⛔ Already taken   | 2028-10-01 | Single, no balcony     | Wilhelmstraße   |   22.2 m² |  500.50 €
+  2/ 237 | ⛔ Already taken   | 2027-10-01 | Single, no balcony     | Wilhelmstraße   |  20.35 m² |  475.50 €
+  2/ 238 | ⛔ Already taken   | 2029-07-01 | Single, no balcony     | Wilhelmstraße   |  20.36 m² |  475.50 €
+  2/ 239 | ⛔ Already taken   | 2028-10-01 | Single, no balcony     | Wilhelmstraße   |  20.36 m² |  475.50 €
+  2/ 240 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  23.74 m² |  500.50 €
+  2/ 241 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Inner courtyard |  25.06 m² |  500.50 €
+  2/ 242 | ⛔ Already taken   | 2029-10-01 | Single, balcony        | Inner courtyard |  25.06 m² |  500.50 €
+  2/ 243 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  25.06 m² |  500.50 €
+  2/ 244 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Inner courtyard |  25.21 m² |  500.50 €
+  2/ 245 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Südstraße       |  24.91 m² |  500.50 €
+  2/ 246 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Südstraße       |  25.06 m² |  500.50 €
+  2/ 247 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Südstraße       |  25.06 m² |  500.50 €
+  2/ 248 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Südstraße       |  25.21 m² |  500.50 €
+  3/ 301 | ⛔ Already taken   | 2029-10-01 | Single, balcony        | Inner courtyard |  27.36 m² |  520.50 €
+  3/ 302 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  27.21 m² |  520.50 €
+  3/ 303 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Inner courtyard |  27.20 m² |  520.50 €
+  3/ 304 | ⛔ Already taken   | 2028-01-01 | Single, balcony        | Inner courtyard |   27.2 m² |  520.50 €
+  3/ 305 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Inner courtyard |  27.20 m² |  520.50 €
+  3/ 307 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |   27.2 m² |  520.50 €
+  3/ 308 | ⛔ Already taken   | 2028-04-01 | Single, balcony        | Inner courtyard |  27.26 m² |  520.50 €
+  3/ 309 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Inner courtyard |  27.17 m² |  520.50 €
+  3/ 310 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  27.20 m² |  520.50 €
+  3/ 311 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Inner courtyard |  27.23 m² |  520.50 €
+  3/ 312 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Inner courtyard |  26.84 m² |  520.50 €
+  3/ 313 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Inner courtyard |  25.82 m² |  505.50 €
+  3/ 314 | ⛔ Already taken   | 2028-04-01 | Single, balcony        | Inner courtyard |  25.83 m² |  505.50 €
+  3/ 315 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Inner courtyard |  25.95 m² |  505.50 €
+  3/ 316 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Wilhelmstraße   |  27.68 m² |  520.50 €
+  3/ 317 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Wilhelmstraße   |  27.18 m² |  520.50 €
+  3/ 318 | ⛔ Already taken   | 2028-01-01 | Single, balcony        | Wilhelmstraße   |  27.09 m² |  520.50 €
+  3/ 320 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Wilhelmstraße   |  27.05 m² |  520.50 €
+  3/ 322 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Wilhelmstraße   |  27.21 m² |  520.50 €
+  3/ 324 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Wilhelmstraße   |  27.18 m² |  520.50 €
+  3/ 325 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Wilhelmstraße   |  27.21 m² |  520.50 €
+  3/ 326 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Wilhelmstraße   |  27.22 m² |  520.50 €
+  3/ 327 | ⛔ Already taken   | 2027-04-01 | Single, balcony, barrier-free | Wilhelmstraße   |  31.12 m² |  520.50 €
+  3/ 328 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Wilhelmstraße   |  25.82 m² |  505.50 €
+  3/ 329 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Wilhelmstraße   |  25.83 m² |  505.50 €
+  3/ 330 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Wilhelmstraße   |  25.82 m² |  505.50 €
+  3/ 331 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Wilhelmstraße   |  26.02 m² |  505.50 €
+  3/ 336 | ⛔ Already taken   | 2027-10-01 | Single, no balcony     | Wilhelmstraße   |  22.19 m² |  500.50 €
+  3/ 337 | ⛔ Already taken   | 2027-04-01 | Single, no balcony     | Wilhelmstraße   |  20.34 m² |  475.50 €
+  3/ 338 | ⛔ Already taken   | 2027-10-01 | Single, no balcony     | Wilhelmstraße   |  20.33 m² |  475.50 €
+  3/ 339 | ⛔ Already taken   | 2027-10-01 | Single, no balcony     | Wilhelmstraße   |  20.33 m² |  475.50 €
+  3/ 340 | ⛔ Already taken   | 2029-10-01 | Single, balcony        | Inner courtyard |  23.73 m² |  500.50 €
+  3/ 341 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  25.05 m² |  500.50 €
+  3/ 342 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  25.05 m² |  500.50 €
+  3/ 343 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  25.05 m² |  505.50 €
+  3/ 344 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  25.21 m² |  500.50 €
+  3/ 345 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Südstraße       |  24.90 m² |  500.50 €
+  3/ 346 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Südstraße       |  25.05 m² |  500.50 €
+  3/ 347 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Südstraße       |  25.05 m² |  500.50 €
+  3/ 348 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Südstraße       |  25.20 m² |  500.50 €
+  4/ 401 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Inner courtyard |  27.37 m² |  520.50 €
+  4/ 402 | ⛔ Already taken   | 2028-04-01 | Single, balcony        | Inner courtyard |  27.22 m² |  520.50 €
+  4/ 403 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Inner courtyard |  27.22 m² |  520.50 €
+  4/ 404 | ⛔ Already taken   | 2028-07-01 | Single, balcony        | Inner courtyard |  27.22 m² |  520.50 €
+  4/ 405 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Inner courtyard |  27.22 m² |  520.50 €
+  4/ 406 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Inner courtyard |  27.22 m² |  520.50 €
+  4/ 407 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  27.22 m² |  520.50 €
+  4/ 408 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  27.28 m² |  520.50 €
+  4/ 409 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Inner courtyard |  27.19 m² |  520.50 €
+  4/ 410 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Inner courtyard |  27.22 m² |  520.50 €
+  4/ 411 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  27.23 m² |  520.50 €
+  4/ 412 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  26.93 m² |  520.50 €
+  4/ 413 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  25.91 m² |  505.50 €
+  4/ 414 | ⛔ Already taken   | 2028-04-01 | Single, balcony        | Inner courtyard |  25.84 m² |  505.50 €
+  4/ 415 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Inner courtyard |  25.96 m² |  505.50 €
+  4/ 416 | ⛔ Already taken   | 2027-04-01 | Partner, balcony       | Wilhelmstraße   |  44.36 m² |  755.50 €
+  4/ 417 | ⛔ Already taken   | 2027-04-01 | Single, balcony, limited furnishing | Wilhelmstraße   |  24.82 m² |  475.50 €
+  4/ 419 | ⛔ Already taken   | 2027-10-01 | Partner, balcony       | Wilhelmstraße   |  44.45 m² |  755.50 €
+  4/ 420 | ⛔ Already taken   | 2027-04-01 | Partner, balcony       | Wilhelmstraße   |  44.51 m² |  755.50 €
+  4/ 422 | ⛔ Already taken   | 2027-10-01 | Partner, balcony       | Wilhelmstraße   |  47.72 m² |  755.50 €
+  4/ 423 | ⛔ Already taken   | 2027-10-01 | Partner, balcony       | Wilhelmstraße   |  42.32 m² |  755.50 €
+  4/ 424 | ⛔ Already taken   | 2027-07-01 | Partner, balcony       | Wilhelmstraße   |  42.13 m² |  755.50 €
+  4/ 426 | ⛔ Already taken   | 2027-10-01 | Single, no balcony     | Wilhelmstraße   |  22.19 m² |  500.50 €
+  4/ 427 | ⛔ Already taken   | 2027-04-01 | Single, no balcony     | Wilhelmstraße   |  20.35 m² |  475.50 €
+  4/ 428 | ⛔ Already taken   | 2029-10-01 | Single, no balcony     | Wilhelmstraße   |  20.35 m² |  475.50 €
+  4/ 429 | ⛔ Already taken   | 2027-04-01 | Single, no balcony     | Wilhelmstraße   |  20.35 m² |  475.50 €
+  4/ 430 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  23.80 m² |  500.50 €
+  4/ 431 | ⛔ Already taken   | 2028-07-01 | Single, balcony        | Inner courtyard |  25.12 m² |  500.50 €
+  4/ 432 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  25.12 m² |  500.50 €
+  4/ 433 | ⛔ Already taken   | 2029-07-01 | Single, balcony        | Inner courtyard |  25.12 m² |  500.50 €
+  4/ 434 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Inner courtyard |  25.37 m² |  500.50 €
+  4/ 435 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Südstraße       |  24.91 m² |  500.50 €
+  4/ 436 | ⛔ Already taken   | 2028-10-01 | Single, balcony        | Südstraße       |  25.06 m² |  500.50 €
+  4/ 437 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Südstraße       |  25.07 m² |  500.50 €
+  4/ 438 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Südstraße       |  25.22 m² |  500.50 €
+  5/ 504 | ⛔ Already taken   | 2028-04-01 | Single, no balcony     | Wilhelmstraße   |  22.53 m² |  500.50 €
+  5/ 505 | ⛔ Already taken   | 2027-04-01 | Single, no balcony     | Wilhelmstraße   |  20.41 m² |  475.50 €
+  5/ 506 | ⛔ Already taken   | 2027-10-01 | Single, no balcony     | Wilhelmstraße   |  20.35 m² |  475.50 €
+  5/ 507 | ⛔ Already taken   | 2027-04-01 | Single, no balcony     | Wilhelmstraße   |  20.35 m² |  475.50 €
+  5/ 508 | ⛔ Already taken   | 2028-01-01 | Single, balcony        | Inner courtyard |  24.97 m² |  500.50 €
+  5/ 510 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  25.12 m² |  500.50 €
+  5/ 511 | ⛔ Already taken   | 2028-07-01 | Single, balcony        | Inner courtyard |  25.12 m² |  500.50 €
+  5/ 512 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  25.28 m² |  500.50 €
+  5/ 513 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Südstraße       |  24.91 m² |  500.50 €
+  5/ 514 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Südstraße       |  25.06 m² |  500.50 €
+  5/ 515 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Südstraße       |  25.06 m² |  500.50 €
+  5/ 516 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Südstraße       |  25.22 m² |  500.50 €
+  6/ 602 | ⛔ Already taken   | 2027-10-01 | Single, no balcony     | Wilhelmstraße   |  20.35 m² |  475.50 €
+  6/ 604 | ⛔ Already taken   | 2027-04-01 | Single, no balcony     | Wilhelmstraße   |  20.35 m² |  475.50 €
+  6/ 605 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  24.91 m² |  500.50 €
+  6/ 606 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Inner courtyard |  25.06 m² |  500.50 €
+  6/ 607 | ⛔ Already taken   | 2027-04-01 | Single, balcony        | Inner courtyard |  25.06 m² |  500.50 €
+  6/ 608 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Inner courtyard |  25.06 m² |  500.50 €
+  6/ 609 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Inner courtyard |  25.22 m² |  500.50 €
+  6/ 610 | ⛔ Already taken   | 2028-01-01 | Single, balcony        | Südstraße       |  24.91 m² |  500.50 €
+  6/ 611 | ⛔ Already taken   | 2027-07-01 | Single, balcony        | Südstraße       |  25.06 m² |  500.50 €
+  6/ 612 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Südstraße       |  25.06 m² |  500.50 €
+  6/ 613 | ⛔ Already taken   | 2027-10-01 | Single, balcony        | Südstraße       |  25.22 m² |  500.50 €
+
+203 apartments: {'available': 0, 'soon': 0, 'taken': 203}
