@@ -261,7 +261,7 @@
       "type": "Single, balcony"
     },
     "3203": {
-      "date": "2027-04-01",
+      "date": "2028-04-01",
       "link": "https://scs.onboarding.reos.software/contract/7bfce139a45345978126bc6ca75e0cb9/register",
       "location": "Inner courtyard",
       "rent": "520.50",
@@ -621,7 +621,7 @@
       "type": "Single, balcony"
     },
     "3239": {
-      "date": "2027-04-01",
+      "date": "2027-10-01",
       "link": "https://scs.onboarding.reos.software/contract/79548166a0e942b3b3f7618e4f7df674/register",
       "location": "Südstraße",
       "rent": "500.50",
@@ -1701,12 +1701,12 @@
       "type": "Single, balcony"
     },
     "3355": {
-      "date": "2028-07-01",
+      "date": "2027-01-01",
       "link": "https://scs.onboarding.reos.software/contract/46c43e74b1e24b4c805f373551846970/register",
       "location": "Inner courtyard",
       "rent": "500.50",
       "size": "25.12",
-      "status": "taken",
+      "status": "soon",
       "title": "4/ 431",
       "type": "Single, balcony"
     },
