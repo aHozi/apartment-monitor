@@ -57,7 +57,7 @@ save the new state.json (committed back to the repo)
 The workflow lives in `.github/workflows/monitor.yml`.
 
 **What starts a run:**
-- **Schedule** — cron `*/10 * * * *` = every 10 minutes.
+- **Schedule** — cron `3-59/10 * * * *` = every 10 minutes (at :03, :13, :23 …).
 - **Manual** — Actions tab → **Apartment monitor** → **Run workflow** (with an optional "debug" tick box).
 
 **What each run does:**
@@ -231,7 +231,7 @@ python monitor.py --dump --file network.json
 
 | What                          | Where                                   | Default                |
 |-------------------------------|-----------------------------------------|------------------------|
-| How often it checks           | `cron` in `.github/workflows/monitor.yml` | `*/10` (every 10 min) |
+| How often it checks           | `cron` in `.github/workflows/monitor.yml` | `3-59/10` (every 10 min) |
 | "Soon available" window       | `SOON_MONTHS` in `monitor.py`           | `6` months             |
 | Max single messages per run   | `MAX_SINGLE_ALERTS` in `monitor.py`     | `5`                    |
 | Which statuses alert you      | `WANTED` in `monitor.py`                | `{"available", "soon"}` |
