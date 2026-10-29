@@ -2,7 +2,7 @@ name: Apartment monitor
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes (GitHub may delay runs a few minutes)
+    - cron: "3-59/10 * * * *"  # every 10 minutes at :03, :13, :23... (off the busy :00; GitHub may delay runs a few minutes)
   workflow_dispatch:          # "Run workflow" button for manual tests
     inputs:
       debug:
