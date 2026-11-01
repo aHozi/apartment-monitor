@@ -26,7 +26,7 @@
       "location": "Inner courtyard",
       "rent": "520.50",
       "size": "27.23",
-      "status": "taken",
+      "status": "soon",
       "title": "0/ 003",
       "type": "Single, balcony"
     },
@@ -176,7 +176,7 @@
       "location": "Südstraße",
       "rent": "500.50",
       "size": "24.91",
-      "status": "taken",
+      "status": "soon",
       "title": "0/ 046",
       "type": "Single, balcony"
     },
@@ -186,7 +186,7 @@
       "location": "Südstraße",
       "rent": "500.50",
       "size": "25.06",
-      "status": "taken",
+      "status": "soon",
       "title": "0/ 047",
       "type": "Single, balcony"
     },
@@ -216,7 +216,7 @@
       "location": "Inner courtyard",
       "rent": "520.50",
       "size": "27.2",
-      "status": "taken",
+      "status": "soon",
       "title": "1/ 102",
       "type": "Single, balcony"
     },
@@ -256,7 +256,7 @@
       "location": "Inner courtyard",
       "rent": "520.50",
       "size": "27.19",
-      "status": "taken",
+      "status": "soon",
       "title": "1/ 106",
       "type": "Single, balcony"
     },
@@ -406,7 +406,7 @@
       "location": "Wilhelmstraße",
       "rent": "520.50",
       "size": "27.22",
-      "status": "taken",
+      "status": "soon",
       "title": "1/ 122",
       "type": "Single, balcony"
     },
@@ -416,7 +416,7 @@
       "location": "Wilhelmstraße",
       "rent": "520.50",
       "size": "27.28",
-      "status": "taken",
+      "status": "soon",
       "title": "1/ 123",
       "type": "Single, balcony"
     },
@@ -446,7 +446,7 @@
       "location": "Wilhelmstraße",
       "rent": "520.50",
       "size": "27.16",
-      "status": "taken",
+      "status": "soon",
       "title": "1/ 126",
       "type": "Single, balcony"
     },
@@ -466,7 +466,7 @@
       "location": "Wilhelmstraße",
       "rent": "520.50",
       "size": "31.07",
-      "status": "taken",
+      "status": "soon",
       "title": "1/ 127",
       "type": "Single, balcony, barrier-free"
     },
@@ -476,7 +476,7 @@
       "location": "Wilhelmstraße",
       "rent": "505.50",
       "size": "25.83",
-      "status": "taken",
+      "status": "soon",
       "title": "1/ 129",
       "type": "Single, balcony"
     },
@@ -486,7 +486,7 @@
       "location": "Wilhelmstraße",
       "rent": "505.50",
       "size": "25.83",
-      "status": "taken",
+      "status": "soon",
       "title": "1/ 130",
       "type": "Single, balcony"
     },
@@ -586,7 +586,7 @@
       "location": "Inner courtyard",
       "rent": "500.50",
       "size": "25.21",
-      "status": "taken",
+      "status": "soon",
       "title": "1/ 144",
       "type": "Single, balcony"
     },
@@ -606,7 +606,7 @@
       "location": "Südstraße",
       "rent": "500.50",
       "size": "25.07",
-      "status": "taken",
+      "status": "soon",
       "title": "1/ 147",
       "type": "Single, balcony"
     },
@@ -686,7 +686,7 @@
       "location": "Inner courtyard",
       "rent": "520.50",
       "size": "27.22",
-      "status": "taken",
+      "status": "soon",
       "title": "2/ 206",
       "type": "Single, balcony"
     },
@@ -716,7 +716,7 @@
       "location": "Inner courtyard",
       "rent": "520.50",
       "size": "27.19",
-      "status": "taken",
+      "status": "soon",
       "title": "2/ 209",
       "type": "Single, balcony"
     },
@@ -726,7 +726,7 @@
       "location": "Inner courtyard",
       "rent": "520.50",
       "size": "27.22",
-      "status": "taken",
+      "status": "soon",
       "title": "2/ 210",
       "type": "Single, balcony"
     },
@@ -746,7 +746,7 @@
       "location": "Inner courtyard",
       "rent": "520.50",
       "size": "26.86",
-      "status": "taken",
+      "status": "soon",
       "title": "2/ 212",
       "type": "Single, balcony"
     },
@@ -876,7 +876,7 @@
       "location": "Wilhelmstraße",
       "rent": "520.50",
       "size": "31.13",
-      "status": "taken",
+      "status": "soon",
       "title": "2/ 227",
       "type": "Single, balcony, barrier-free"
     },
@@ -906,7 +906,7 @@
       "location": "Wilhelmstraße",
       "rent": "505.50",
       "size": "25.84",
-      "status": "taken",
+      "status": "soon",
       "title": "2/ 230",
       "type": "Single, balcony"
     },
@@ -976,7 +976,7 @@
       "location": "Inner courtyard",
       "rent": "500.50",
       "size": "25.06",
-      "status": "taken",
+      "status": "soon",
       "title": "2/ 241",
       "type": "Single, balcony"
     },
@@ -1016,7 +1016,7 @@
       "location": "Südstraße",
       "rent": "500.50",
       "size": "24.91",
-      "status": "taken",
+      "status": "soon",
       "title": "2/ 245",
       "type": "Single, balcony"
     },
@@ -1096,7 +1096,7 @@
       "location": "Inner courtyard",
       "rent": "520.50",
       "size": "27.20",
-      "status": "taken",
+      "status": "soon",
       "title": "3/ 305",
       "type": "Single, balcony"
     },
@@ -1156,7 +1156,7 @@
       "location": "Inner courtyard",
       "rent": "520.50",
       "size": "26.84",
-      "status": "taken",
+      "status": "soon",
       "title": "3/ 312",
       "type": "Single, balcony"
     },
@@ -1166,7 +1166,7 @@
       "location": "Inner courtyard",
       "rent": "505.50",
       "size": "25.82",
-      "status": "taken",
+      "status": "soon",
       "title": "3/ 313",
       "type": "Single, balcony"
     },
@@ -1266,7 +1266,7 @@
       "location": "Wilhelmstraße",
       "rent": "520.50",
       "size": "31.12",
-      "status": "taken",
+      "status": "soon",
       "title": "3/ 327",
       "type": "Single, balcony, barrier-free"
     },
@@ -1276,7 +1276,7 @@
       "location": "Wilhelmstraße",
       "rent": "505.50",
       "size": "25.82",
-      "status": "taken",
+      "status": "soon",
       "title": "3/ 328",
       "type": "Single, balcony"
     },
@@ -1306,7 +1306,7 @@
       "location": "Wilhelmstraße",
       "rent": "505.50",
       "size": "26.02",
-      "status": "taken",
+      "status": "soon",
       "title": "3/ 331",
       "type": "Single, balcony"
     },
@@ -1326,7 +1326,7 @@
       "location": "Wilhelmstraße",
       "rent": "475.50",
       "size": "20.34",
-      "status": "taken",
+      "status": "soon",
       "title": "3/ 337",
       "type": "Single, no balcony"
     },
@@ -1426,7 +1426,7 @@
       "location": "Südstraße",
       "rent": "500.50",
       "size": "25.05",
-      "status": "taken",
+      "status": "soon",
       "title": "3/ 347",
       "type": "Single, balcony"
     },
@@ -1446,7 +1446,7 @@
       "location": "Inner courtyard",
       "rent": "520.50",
       "size": "27.37",
-      "status": "taken",
+      "status": "soon",
       "title": "4/ 401",
       "type": "Single, balcony"
     },
@@ -1486,7 +1486,7 @@
       "location": "Inner courtyard",
       "rent": "520.50",
       "size": "27.22",
-      "status": "taken",
+      "status": "soon",
       "title": "4/ 405",
       "type": "Single, balcony"
     },
@@ -1576,7 +1576,7 @@
       "location": "Inner courtyard",
       "rent": "505.50",
       "size": "25.96",
-      "status": "taken",
+      "status": "soon",
       "title": "4/ 415",
       "type": "Single, balcony"
     },
@@ -1586,7 +1586,7 @@
       "location": "Wilhelmstraße",
       "rent": "755.50",
       "size": "44.36",
-      "status": "taken",
+      "status": "soon",
       "title": "4/ 416",
       "type": "Partner, balcony"
     },
@@ -1596,7 +1596,7 @@
       "location": "Wilhelmstraße",
       "rent": "475.50",
       "size": "24.82",
-      "status": "taken",
+      "status": "soon",
       "title": "4/ 417",
       "type": "Single, balcony, limited furnishing"
     },
@@ -1616,7 +1616,7 @@
       "location": "Wilhelmstraße",
       "rent": "755.50",
       "size": "44.51",
-      "status": "taken",
+      "status": "soon",
       "title": "4/ 420",
       "type": "Partner, balcony"
     },
@@ -1666,7 +1666,7 @@
       "location": "Wilhelmstraße",
       "rent": "475.50",
       "size": "20.35",
-      "status": "taken",
+      "status": "soon",
       "title": "4/ 427",
       "type": "Single, no balcony"
     },
@@ -1686,7 +1686,7 @@
       "location": "Wilhelmstraße",
       "rent": "475.50",
       "size": "20.35",
-      "status": "taken",
+      "status": "soon",
       "title": "4/ 429",
       "type": "Single, no balcony"
     },
@@ -1796,7 +1796,7 @@
       "location": "Wilhelmstraße",
       "rent": "475.50",
       "size": "20.41",
-      "status": "taken",
+      "status": "soon",
       "title": "5/ 505",
       "type": "Single, no balcony"
     },
@@ -1816,7 +1816,7 @@
       "location": "Wilhelmstraße",
       "rent": "475.50",
       "size": "20.35",
-      "status": "taken",
+      "status": "soon",
       "title": "5/ 507",
       "type": "Single, no balcony"
     },
@@ -1876,7 +1876,7 @@
       "location": "Südstraße",
       "rent": "500.50",
       "size": "25.06",
-      "status": "taken",
+      "status": "soon",
       "title": "5/ 514",
       "type": "Single, balcony"
     },
@@ -1886,7 +1886,7 @@
       "location": "Südstraße",
       "rent": "500.50",
       "size": "25.06",
-      "status": "taken",
+      "status": "soon",
       "title": "5/ 515",
       "type": "Single, balcony"
     },
@@ -1896,7 +1896,7 @@
       "location": "Südstraße",
       "rent": "500.50",
       "size": "25.22",
-      "status": "taken",
+      "status": "soon",
       "title": "5/ 516",
       "type": "Single, balcony"
     },
@@ -1916,7 +1916,7 @@
       "location": "Wilhelmstraße",
       "rent": "475.50",
       "size": "20.35",
-      "status": "taken",
+      "status": "soon",
       "title": "6/ 604",
       "type": "Single, no balcony"
     },
@@ -1946,7 +1946,7 @@
       "location": "Inner courtyard",
       "rent": "500.50",
       "size": "25.06",
-      "status": "taken",
+      "status": "soon",
       "title": "6/ 607",
       "type": "Single, balcony"
     },
