@@ -1091,12 +1091,12 @@
       "type": "Single, balcony"
     },
     "3289": {
-      "date": "2027-04-01",
+      "date": "2028-01-01",
       "link": "https://scs.onboarding.reos.software/contract/8b4f00854f2d4c5795290708a901560a/register",
       "location": "Inner courtyard",
       "rent": "520.50",
       "size": "27.20",
-      "status": "soon",
+      "status": "taken",
       "title": "3/ 305",
       "type": "Single, balcony"
     },
