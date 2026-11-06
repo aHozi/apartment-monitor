@@ -1661,12 +1661,12 @@
       "type": "Single, no balcony"
     },
     "3351": {
-      "date": "2027-04-01",
+      "date": "2028-01-01",
       "link": "https://scs.onboarding.reos.software/contract/c9915cb00ce4459592e19b19900c0e56/register",
       "location": "Wilhelmstraße",
       "rent": "475.50",
       "size": "20.35",
-      "status": "soon",
+      "status": "taken",
       "title": "4/ 427",
       "type": "Single, no balcony"
     },
