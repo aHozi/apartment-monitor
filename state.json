@@ -481,12 +481,12 @@
       "type": "Single, balcony"
     },
     "3225": {
-      "date": "2027-04-01",
+      "date": "2027-07-01",
       "link": "https://scs.onboarding.reos.software/contract/cef80c05eb7b40ae99a49c0efe62ff80/register",
       "location": "Wilhelmstraße",
       "rent": "505.50",
       "size": "25.83",
-      "status": "soon",
+      "status": "taken",
       "title": "1/ 130",
       "type": "Single, balcony"
     },
@@ -1891,12 +1891,12 @@
       "type": "Single, balcony"
     },
     "3376": {
-      "date": "2027-04-01",
+      "date": "2028-04-01",
       "link": "https://scs.onboarding.reos.software/contract/689e1d6696e74894b9231a6a4a1988f2/register",
       "location": "Südstraße",
       "rent": "500.50",
       "size": "25.22",
-      "status": "soon",
+      "status": "taken",
       "title": "5/ 516",
       "type": "Single, balcony"
     },
